@@ -83,12 +83,12 @@ img {
 
 /* すべてのページに適用 - footer - */
 #footer{
-	background-image: url(../images/footer-bg.png);
-	background-repeat: repeat-x;
-	margin-top: 30px;
-	padding:20px 0 20px 0;
-	font-size: smaller;
-	color: #442220;
+    background-image: url(../images/suneggpafe.png);
+    background-repeat: repeat-x;
+    margin-top: 30px;
+    padding: 20px 0 20px 0;
+    font-size: smaller;
+    color: #442220;
 }
 
 /* 個別のスタイル */
