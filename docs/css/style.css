@@ -76,8 +76,16 @@ img {
     color: #000000;
     text-decoration: none;
 }
+#nav_spe li a:hover {
+    color: #43FFF6;
+    text-decoration: none;
+}
+#nav_spe li a:hover {
+    color: #000000;
+    text-decoration: none;
+}
 #nav li a:active {
-    color: #FFFFFF;
+    color: #05A5FF;
     text-decoration: none;
 }
 
@@ -184,4 +192,6 @@ textarea {
 input[type=submit] {
 	margin: 20px 12px;
 	width: 30em;
+}
+.special_menu.html {
 }
