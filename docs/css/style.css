@@ -76,12 +76,16 @@ img {
     color: #000000;
     text-decoration: none;
 }
+#nav_spe li a:hover   {
+    color: #005CFF;
+    text-decoration: none;
+}
 #nav_spe li a:hover {
     color: #43FFF6;
     text-decoration: none;
 }
 #nav_spe li a:hover {
-    color: #000000;
+    color: #0074FF;
     text-decoration: none;
 }
 #nav li a:active {
